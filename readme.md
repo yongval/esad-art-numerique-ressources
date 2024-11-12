@@ -1,5 +1,6 @@
 # Ressources art Numérique et code créatif
-
+## Artistes
+Aram Bartholl https://arambartholl.com/ 
 
 
 ### **ML5 and Tensorflow**
